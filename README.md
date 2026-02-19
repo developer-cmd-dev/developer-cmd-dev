@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey Developers! 👋 I'm Dev Kumar — a Full Stack Java & React Developer from India 🇮🇳<br><br>🌱 Currently learning MySQL to enhance my backend skills<br>👯 Actively looking to collaborate on Open Source Projects<br>💬 Feel free to ask me about Java and Spring Boot<br>🧠 Currently not working on any project — focusing on learning DSA<br>🧩 Love solving problems on LeetCode and sharpening my problem-solving skills
+Hey Developers! 👋 I'm Dev Kumar — a MERN Developer from India 🇮🇳<br><br>🌱 Currently Making some complex project in Mnonrepo and Turborepo using Nodejs, Nextjs and Websocket<br>👯 Actively looking to collaborate on Open Source Projects<br>💬 Feel free to ask me about MERN and Backend Tech<br>🧠 Currently Building Excalidraw Web Application<br>
 
 
 # 💻 Tech Stack:
