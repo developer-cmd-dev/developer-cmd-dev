@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey Developers! 👋 I'm Dev Kumar — a MERN Developer from India 🇮🇳<br><br>🌱 Currently Making some complex project in Mnonrepo and Turborepo using Nodejs, Nextjs, Websocket and LLM's<br>👯 Actively looking to collaborate on Open Source Projects<br>💬 Feel free to ask me about MERN and Backend Tech<br>🧠 Currently TheStreaming video streaming Application using Nextjs, Express and Building Coding agent for this Streaming Application<br>
+Hey Developers! 👋 I'm Dev Kumar — a MERN Developer from India 🇮🇳<br><br>🌱 Currently Making some complex project in Mnonrepo and Turborepo using Nodejs, Nextjs, Websocket and LLM's<br>👯 Actively looking to collaborate on Open Source Projects<br>💬 Feel free to ask me about MERN and Backend Tech<br>🧠 Currently Building TheStreaming video streaming Application using Nextjs, Express and Building Coding agent for this Streaming Application<br>
 
 
 # 💻 Tech Stack:
